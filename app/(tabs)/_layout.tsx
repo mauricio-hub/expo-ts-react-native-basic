@@ -1,5 +1,4 @@
 import { Tabs } from 'expo-router';
-/* @tutinfo Import <CODEIonicons</CODE> icon set.*/
 import Ionicons from '@expo/vector-icons/Ionicons';
 
 
