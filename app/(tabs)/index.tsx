@@ -6,8 +6,6 @@ import { GestureHandlerRootView } from "react-native-gesture-handler";
 import * as MediaLibrary from 'expo-media-library';
 import { captureRef } from 'react-native-view-shot';
 
-
-
 import { Button } from "@/components/Button";
 import { ImageViewer } from "@/components/ImageViewer";
 import { IconButton } from "@/components/IconButton";
@@ -15,8 +13,6 @@ import CircleButton from "@/components/CircleButton";
 import { EmojiPicker } from "@/components/EmojiPicker";
 import { EmojiList } from "@/components/EmojiList";
 import EmojiSticker from "@/components/EmojiSticker";
-
-
 
 const PlaceholderImage = require("@/assets/images/background-image.png");
 
